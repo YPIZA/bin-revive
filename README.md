@@ -1,17 +1,17 @@
-# Bin_Resucitate
-script extrapolador de bins, revive y saca lives con el metodo de sofia
+# bin-revive
+script extrapolador de bins, revive y saca lives con el metodo de SoFia
 
 # instalacion
 
 apt update && apt upgrade -y
 
-git clone  https://github.com/AngelV1p/Bin_Resucitate.git
+git clone  https://github.com/YPIZA/bin-revive.git
 
-cd Bin_Resucitate
+cd bin-revive
 
-chmod 777 Bin_Resucitate.sh
+chmod 777 bin-revive.sh
 
-./Bin_Resucitate.sh
+./bin-revive.sh
 
 
 
